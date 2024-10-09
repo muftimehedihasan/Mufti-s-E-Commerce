@@ -1,0 +1,1 @@
+<img src={assets.logo} alt="logo"/>
